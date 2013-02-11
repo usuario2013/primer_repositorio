@@ -1,16 +1,14 @@
 // Programa: hola_mundo.c
 // Autor: Ignacio Aular
-// Version: 1.0
+// Versión: 1.0
 // Fecha: 11/02/2013
 // Hora: 06:15 a.m.
-// Descripcion: muestra una cadena de texto por la salida estandar.
+// Descripción: muestra una cadena de texto por la salida estándar.
 
 #include <stdio.h>
 
 int main(void)
 {
-   printf("Hola Mundo remoto desde GitHub.com\n");
+   printf("Elaborado por Ing. Ignacio Aular, IUTY 2013, ignacio_345@hotmail.com\n");
    return 0;
 }
-
-
